@@ -1,1 +1,1 @@
-# restaurants
+![](https://github.com/InaraShalfei/restaurants/actions/workflows/main.yml/badge.svg)
