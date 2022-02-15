@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from .models import Restaurant, Pizza
+from .models import Pizza, Restaurant
 
 
 class RestaurantSerializer(serializers.ModelSerializer):

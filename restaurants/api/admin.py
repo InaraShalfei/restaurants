@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Restaurant, Pizza
+from .models import Pizza, Restaurant
 
 
 class RestaurantAdmin(admin.ModelAdmin):
